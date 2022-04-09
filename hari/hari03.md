@@ -11,10 +11,10 @@ modul ini cukup mahal dan memerlukan setting vendor untuk dapat terhubung menggu
 ### Open source
 
 Sebelum kita membahas dua platform open source yaitu 
-arduino (berbasis microcontroller)
-Raspberry pi (berbasis mikroprosesor)
+- arduino (berbasis microcontroller)
+ - Raspberry pi (berbasis mikroprosesor)
 
-kita perlu membahas terlebih dahulu dunia sebelum ada dua solusi ini. perlu diketahui membangun hardware dari ground oup bukan perkara gampang, apalagi hardware development belum ada open source. terkadang kita perlu membeli lisensi untuk sekedar bisa memasukkan program ke platform yg kita pilih. namun beberapa vendor muali menga opens source kan toolchain mereka bahkan toolchain dibangun berbasis GNU yg open source. karena itu atmel yg sekarang dibeli oleh microchip adalah salah satu vendor microcontroller yg melakukan itu dan itu menjadi jalan dari arduino untuk muncul dengan meng-extend library dan compiler atmel ke tools yg jauh lebih sederhana oleh pemula.
+kita perlu membahas terlebih dahulu bagaimana keadaan dunia sebelum ada dua solusi ini. perlu diketahui membangun hardware dari ground oup bukan perkara gampang, apalagi hardware development belum ada open source. terkadang kita perlu membeli lisensi untuk sekedar bisa memasukkan program ke platform yg kita pilih. namun beberapa vendor mulai menggunakan opens source, berawal dari toolchain yangdibangun berbasis GNU yg open source. karena itu atmel yg sekarang dibeli oleh microchip adalah salah satu vendor microcontroller yg melakukan itu dan itu menjadi jalan dari arduino untuk muncul dengan meng-extend library dan compiler atmel ke tools yg jauh lebih sederhana oleh pemula.
 
 Untuk mikroprosesor jauh lebih sulit karena awalnya kita perlu membeli OS khusus yg berjalan di atas microprocessor embedded system. hal ini membutuhkan investasi awal yg tidak sedikit. linux yg open source memungkinakn setipa orang untuk membangun OS sendiri di mikroprosesor apa un, walaupun awalnya ini sulit karena beberapa mikroprosesor unik dan diperlukan perjanjian NDA untuk mendevelop OS untuk mikroprosesor tertentu sehingga terkadang developer OS menebak-nebak. hal ini berlangsung cukup lama, walaupun tidak menyurutkan 
 
