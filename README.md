@@ -5,3 +5,4 @@
 - 2 > [Komponen](hari/hari02.md)
 - 3 > [Hardware Plaform](hari/hari03.md)   
 - 4 > [Komunikasi](hari/hari04.md) 
+- 5 > [Protokol](hari/hari05.md) 
