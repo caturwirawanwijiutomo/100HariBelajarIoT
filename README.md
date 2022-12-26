@@ -7,3 +7,4 @@ Internet of Things adalah kapabilitas perangkat elektronik (consumer/khusus) unt
 - 3 > [Hardware Plaform](hari/hari03.md)   
 - 4 > [Komunikasi](hari/hari04.md) 
 - 5 > [Protokol](hari/hari05.md) 
+- 6 > [Desain sistem] (hari/hari06.md)
